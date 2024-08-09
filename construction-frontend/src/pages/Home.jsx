@@ -1,8 +1,8 @@
 
 const Home = () => {
   return (
-    <div>
-      hasfasfdafs
+    <div className=" flex items-center justify-center">
+      Home page
     </div>
   )
 }
